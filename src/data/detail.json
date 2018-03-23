@@ -1,0 +1,20 @@
+{
+  "error":"1000",
+  "msg":"获取数据成功",
+  "data":{
+    "fruitId":"12",
+    "imgUrl":"https://img.alicdn.com/imgextra/i2/1910146537/TB2GxGVogxlpuFjy0FoXXa.lXXa_!!1910146537.jpg_430x430q90.jpg",
+    "name":"智利绿奇异果",
+    "price":12.3,
+    "isReserve":true,
+    "source":"互联网原生态，水果原创品牌。",
+    "texture":"酸甜",
+    "specifical":"2盒",
+    "weight":"280g*2",
+    "packing":"盒装",
+    "QGP":"货到即食",
+    "storageWay":"冷藏",
+    "sjzs":"商家直送",
+    "xs2":"2小时送达"
+  }
+}

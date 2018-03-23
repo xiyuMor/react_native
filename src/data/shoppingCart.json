@@ -1,0 +1,15 @@
+{
+	"error": "1000",
+	"msg": "请求成功",
+	"data": {
+		"list": [
+			{
+				"fruitId": "12",
+				"title": "广西西柚",
+				"imgUrl": "www.baidu.com",
+				"price": 12.9,
+				"count": 2
+			}
+		]
+	}
+}
